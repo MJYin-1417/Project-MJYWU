@@ -1,0 +1,1 @@
+web: cd listifyServer && node app.js
